@@ -1,8 +1,8 @@
 # Sentiment Analysis - Task 2 | Internship @ CodTech IT Solutions
 
 ## Internship Details
-**Project Title: ** PERFORM SENTIMENT ANALYSIS ON A DATASET OF CUSTOMER REVIEWS USING TF-IDF VECTORIZATION AND LOGISTIC REGRESSION <br>
-**Company: ** CodTech IT Solutions <br>
+**Project Title:** PERFORM SENTIMENT ANALYSIS ON A DATASET OF CUSTOMER REVIEWS USING TF-IDF VECTORIZATION AND LOGISTIC REGRESSION <br>
+**Company:** CodTech IT Solutions <br>
 **Name:** Lakshita Joshi <br>
 **Intern ID:** CT04DF2911 <br>
 **Domain:** Machine Learning <br>
